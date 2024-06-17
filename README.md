@@ -90,3 +90,15 @@ Dynamic and results-driven Support Manager with over 11 years of experience in m
 - ![Scrum](https://img.shields.io/badge/Scrum-Expert-brightgreen)
 - ![Agile Leadership](https://img.shields.io/badge/Agile_Leadership-Expert-blue)
 - ![Project Management](https://img.shields.io/badge/Project_Management-Expert-orange)
+
+  ---
+
+## Soft Skills
+
+- ![Communication](https://img.shields.io/badge/Communication-Excellent-brightgreen)
+- ![Leadership](https://img.shields.io/badge/Leadership-Excellent-blue)
+- ![Problem Solving](https://img.shields.io/badge/Problem_Solving-Excellent-orange)
+- ![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-Excellent-lightgrey)
+- ![Adaptability](https://img.shields.io/badge/Adaptability-Excellent-yellow)
+- ![Empathy](https://img.shields.io/badge/Empathy-Excellent-red)
+
