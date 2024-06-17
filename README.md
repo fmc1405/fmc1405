@@ -1,4 +1,4 @@
-#=# Maria Festa
+# Maria Festa
 
 **Support Manager**  
 Italy  
@@ -89,4 +89,3 @@ _September 2002 - July 2007_
 - Scrum
 - Agile Leadership
 - Project Management
-
