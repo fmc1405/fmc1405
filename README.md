@@ -2,7 +2,7 @@
 
 ## Support Manager
 
-📍 Italy  
+📍 Italy   
 ✉️ [festamariaconcetta@gmail.com](mailto:festamariaconcetta@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mcfesta)
 
@@ -14,6 +14,15 @@ Dynamic and results-driven Support Manager with over 11 years of experience in m
 ---
 
 ## Experience
+
+### Siemens, Italy
+**Technical Project Manager**  
+*November 2023 - Current*  
+- Achieved a 95% customer satisfaction rate by directing the technical development of MV projects, ensuring compliance with industry standards and engineering best practices.
+- Ensured project success by overseeing the entire lifecycle from handover to customer delivery, consistently meeting or exceeding project milestones.
+- Strengthened vendor relationships and improved procurement processes by collaborating closely with the Supply Chain.
+- Drove innovation and maintained high-quality standards by providing expert technical guidance.
+- Contributed to operational excellence by actively participating in site installations and plant commissioning phases, leading to increased customer satisfaction.
 
 ### 4Securitas, Italy
 **Support Manager**  
@@ -82,7 +91,8 @@ Dynamic and results-driven Support Manager with over 11 years of experience in m
 ## Certifications
 
 - ECDL Advanced
-
+- Agile Project Managment
+- PMP 
 ---
 
 ## Top Skills
