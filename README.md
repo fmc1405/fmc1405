@@ -15,18 +15,9 @@ Dynamic and results-driven Support Manager with over 11 years of experience in m
 
 ## Experience
 
-### Siemens, Italy
-**Technical Project Manager**  
-*November 2023 - Current*  
-- Achieved a 95% customer satisfaction rate by directing the technical development of MV projects, ensuring compliance with industry standards and engineering best practices.
-- Ensured project success by overseeing the entire lifecycle from handover to customer delivery, consistently meeting or exceeding project milestones.
-- Strengthened vendor relationships and improved procurement processes by collaborating closely with the Supply Chain.
-- Drove innovation and maintained high-quality standards by providing expert technical guidance.
-- Contributed to operational excellence by actively participating in site installations and plant commissioning phases, leading to increased customer satisfaction.
-
 ### 4Securitas, Italy
 **Support Manager**  
-*February 2023 - October 2023 (9 months)*  
+*February 2023 - May 2024 (1 year 3 months)*  
 - Led a team of support professionals, fostering a culture of excellence and continuous improvement.
 - Developed and standardized support procedures, elevating service quality and operational efficiency.
 - Spearheaded cross-functional collaborations with Sales, Development, and Operations to deliver seamless customer experiences.
