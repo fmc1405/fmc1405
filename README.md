@@ -91,7 +91,7 @@ Dynamic and results-driven support manager with over 15 years of experience in p
 - ![Scrum](https://img.shields.io/badge/Scrum-Expert-brightgreen)
 - ![Agile Leadership](https://img.shields.io/badge/Agile_Leadership-Expert-blue)
 - ![Project Management](https://img.shields.io/badge/Project_Management-Expert-orange)
-- ![ECDL Instructor](https://img.shields.io/badge/AICA-Teacher-Expert-white)
+- ![ECDL Instructor](https://img.shields.io/badge/ECDL_Instructor-Expert-blue)
 
   ---
 
