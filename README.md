@@ -9,7 +9,7 @@
 ---
 
 ## Professional Summary
-Dynamic and results-driven Support Manager with over 11 years of experience in managing customer support teams, troubleshooting complex technical issues, and optimizing operational efficiency. Proficient in leading cross-functional teams, implementing best practices, and fostering a customer-centric culture. Adept at using agile methodologies and project management skills to enhance service quality and drive continuous improvement. Certified in ECDL Advanced and skilled in Scrum, Agile Leadership, and Project Management.
+Dynamic and results-driven support manager with over 15 years of experience in project management, agile methodologies, and technical support. Demonstrated ability to lead cross-functional teams, improve customer satisfaction, and drive operational efficiency. Successfully managed projects leading to significant growth and enhanced service quality. PMP certified, with over 10 years of experience leading cross-functional teams in software development, infrastructure, and cloud solutions.
 
 ---
 
