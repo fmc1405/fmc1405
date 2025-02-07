@@ -17,8 +17,7 @@ Dynamic and results-driven support manager with over 15 years of experience in p
 
 ### Project Manager
 **Freelance with :heart: **  
-* May 2024 - Ongoing *
-  
+*May 2024 - Ongoing*
 - Dedicated freelance project manager with a proven track record of handling complex projects across diverse industries.
 - Balance the demands of my career with the joys and challenges of motherhood.
 - Multitasking, creative problem-solving, and delivering results under tight deadlines.
