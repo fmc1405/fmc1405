@@ -15,6 +15,17 @@ Dynamic and results-driven support manager with over 15 years of experience in p
 
 ## Experience
 
+### Project Manager
+**Freelance with :heart: **  
+* May 2024 - Ongoing *  
+- Dedicated freelance project manager with a proven track record of handling complex projects across diverse industries.
+- Balance the demands of my career with the joys and challenges of motherhood.
+- Multitasking, creative problem-solving, and delivering results under tight deadlines.
+- Lead teams with a collaborative approach, ensuring projects are completed on time and within budget.
+- Draw on my experiences as a mother to enhance my communication skills and build resilient, productive teams.
+- Passionate about excellence, both in my professional endeavors and in nurturing my family.
+
+
 ### 4Securitas, Italy
 **Support Manager**  
 *February 2023 - May 2024 (1 year 3 months)*  
